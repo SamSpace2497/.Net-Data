@@ -1,0 +1,12 @@
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\bin\Debug\net6.0\TestAccessSpecifiers.deps.json
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\bin\Debug\net6.0\TestAccessSpecifiers.dll
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\bin\Debug\net6.0\TestAccessSpecifiers.pdb
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\TestAccessSpecifiers.csproj.AssemblyReference.cache
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\TestAccessSpecifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\TestAccessSpecifiers.AssemblyInfoInputs.cache
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\TestAccessSpecifiers.AssemblyInfo.cs
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\TestAccessSpecifiers.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\TestAccessSpecifiers.dll
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\refint\TestAccessSpecifiers.dll
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\TestAccessSpecifiers.pdb
+D:\Trainings\YcpJan23\Day2\TestAccessSpecifiers\obj\Debug\net6.0\ref\TestAccessSpecifiers.dll
