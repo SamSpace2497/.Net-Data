@@ -1,0 +1,189 @@
+Day 1
+
+.NET features
+* OO Code
+* Multiple Languages (Over 50)
+* Multiple Platforms
+* Multiple Project types (eg web baed , desktop based , etc)
+* Better Security
+* Improved Performance
+
+Applications that can be created using .NET
+- Web Application , Windows Forms , Console Apps , web Services , WCF , WPF , Workflow , ASP.NET , MVC , Net Core , Xamarin , Windows Services , Web API
+
+.NET Base Class Library
+- System.Dll
+- System.Data.Dll
+- System.Xml.Dll etc
+
+To Write Source Code
+- Can use any .Net Language 
+- e.g. C# , Vb.Net
+
+When source code is compiled , we get an Assembly
+* Also called as IL (Intermediate Language) / Byte Code , MSIL (Microsoft InterLan..) / CIL(Common Intermediate Language)
+* An Assembly will either be an EXE / DLL
+    * EXE is the main function and has an entry point
+    * DLL includes functions and methods , has to be called using another class
+
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+
+COMMON LANGUAGE RUNTIME (CLR)
+
+* JIT Compilation (Just in Time)
+    * Converts IL to Machine / native code
+    * Only when a function is called , the function is compiled to native code.
+    * Once a method is called , the next time that function is not compiled again and hence the function executes faster
+    * JIT Compiler is also called as JITTER.
+
+* Handles Memory Management.
+
+* Garbage Collection
+    * Un-referenced memory
+    * GC runs when there is not enough memory.
+    * When the GC will run cannot be determined.
+
+- Destructor is a function that is called when there are less resources
+- Usually written to release resources.
+
+- Non deterministic finalization
+- In .Net we should not write code in destructor.
+- .Net suggests that write that code in a method called dispose which comes under interface “idisposable”.
+
+
+* App domain Management (Only works in .Net framework)
+    * It is an area within a process in which an application runs.
+
+* Common Language Specification (CLS)
+    * It is a common set of rules that all .Net languages must follow
+
+* Common Type System (CTS)
+    * Have the common datatypes used in .Net
+    * Internally all datatypes are converted into the same datatypes
+    * Typically made up of 4 bytes
+
+in csharp
+int doSomething (int x) —> Internally works as System.Int32
+{
+	....
+}
+
+* Thread Management
+
+* Security Management
+
+* Debugging
+
+* Exception Handling
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+
+.NET FRAMEWORK
+
+- Consists of Base Class Libraries , CLR , Utilities (E.x. Compiler)
+- To run a .netframework you only need BCL , CLR
+
+- BCL , CLR are platform dependant.
+
+- Mono : is a .Net framework for Linux.
+    - Open Source project
+    - Mono in Spanish = Monkey. Tried to make fun of microsoft
+
+* .net core
+    * Created by microsoft , works on all platforms.
+
+- .net framework for windows only
+- Mono for linux
+- Xamarin used for Mobile platforms (android , iOS , windows)
+- .net Core for all platforms
+
+* .net core features
+    * Open - source
+    * Cross - platform
+    * lightweight
+    * Extensible
+
+- .Net Framework 1 initially launched Feb-2002
+- .Net Core - June 2016
+- .Net 8 - Nov 2023 (Proposed)
+
+- When .Net core 3 released, they merged the both and decided to work only on .Net core which would be cross-plat , open source
+
+- CDAC’s course covers .Net 6
+- Working with Visual Studio Community Edition , .Net 6
+- C#
+- Console Apps / Class Library
+- Asp.Net Core MVC
+- Web API
+
+
+- While installing
+- Check the following
+    - ASP.Net and web development
+    - .Net desktop development
+    - Data storage and processing
+
+
+—————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+
+Managed vs Unmanaged code
+
+* Managed code is run by CLR (All .net code)
+* Unmanaged code is not run by CLR
+    * e.x Windows DLLs(PInvoke)(Platform Invoke Service) and COM Apps (Using COM Interop)(COM Inter Operability)
+
+
+Assembly Structure
+
+	MyAssembly.dll
+Assembly Manifest
+Type Metadata
+MSIL code
+Resources
+
+- All classes are types
+- All types aren’t classes
+
+Types of types
+class , interface , struct , enum , deligate
+
+* Assembly Manifest
+    * Contains
+        * Assembly Name , Version Number , Culture , Strong Name , List of files Contained , References , Type Reference information
+
+
+- In VS
+- Create a new Project
+- Languages —> c#
+- Select all platforms
+- Select console
+
+- Select Console App
+- Select next
+- Create a new folder and save 
+- Project will have multiple classes
+- Solution will have multiple projects
+- Select version as 6.0
+- Check on Do not use top - level statements
+
+* Namespaces can have classes or other namespaces inside it
+* One main should exist in the project
+* Press tab tab on a suggestion to autocomplete the code.
+* System is a namespace
+* System.Console.WriteLine() has 17 overloads so total 18 ways to use a method
+
+*  Cannot initialise 1st parameter of a function to 0.
+* Cannot give a local function access modifiers
+    * It is implicitly private
+
+- Local function can access a variable defined in the calling function.
+- Static local function cannot access a variable defined in the calling function.
+    - Used when you don’t want to use variables initialised in calling method but also want that the method will only be accessible using the calling(parent) function.
