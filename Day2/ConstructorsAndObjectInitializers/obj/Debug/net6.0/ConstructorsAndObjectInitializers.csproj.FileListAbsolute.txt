@@ -1,0 +1,15 @@
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\bin\Debug\net6.0\ConstructorsAndObjectInitializers.exe
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\bin\Debug\net6.0\ConstructorsAndObjectInitializers.deps.json
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\bin\Debug\net6.0\ConstructorsAndObjectInitializers.runtimeconfig.json
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\bin\Debug\net6.0\ConstructorsAndObjectInitializers.dll
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\bin\Debug\net6.0\ConstructorsAndObjectInitializers.pdb
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.csproj.AssemblyReference.cache
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.AssemblyInfoInputs.cache
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.AssemblyInfo.cs
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.dll
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\refint\ConstructorsAndObjectInitializers.dll
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.pdb
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ConstructorsAndObjectInitializers.genruntimeconfig.cache
+D:\Trainings\YcpJan23\Day2\ConstructorsAndObjectInitializers\obj\Debug\net6.0\ref\ConstructorsAndObjectInitializers.dll
