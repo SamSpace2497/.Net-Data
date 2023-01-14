@@ -1,0 +1,15 @@
+D:\Trainings\YcpJan23\Day5\ValueTypes\bin\Debug\net6.0\ValueTypes.exe
+D:\Trainings\YcpJan23\Day5\ValueTypes\bin\Debug\net6.0\ValueTypes.deps.json
+D:\Trainings\YcpJan23\Day5\ValueTypes\bin\Debug\net6.0\ValueTypes.runtimeconfig.json
+D:\Trainings\YcpJan23\Day5\ValueTypes\bin\Debug\net6.0\ValueTypes.dll
+D:\Trainings\YcpJan23\Day5\ValueTypes\bin\Debug\net6.0\ValueTypes.pdb
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.AssemblyReference.cache
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfoInputs.cache
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.AssemblyInfo.cs
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.dll
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\refint\ValueTypes.dll
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.pdb
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ValueTypes.genruntimeconfig.cache
+D:\Trainings\YcpJan23\Day5\ValueTypes\obj\Debug\net6.0\ref\ValueTypes.dll

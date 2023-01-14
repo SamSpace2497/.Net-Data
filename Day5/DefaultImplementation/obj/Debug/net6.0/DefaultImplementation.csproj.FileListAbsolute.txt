@@ -1,0 +1,15 @@
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\bin\Debug\net6.0\DefaultImplementation.exe
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\bin\Debug\net6.0\DefaultImplementation.deps.json
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\bin\Debug\net6.0\DefaultImplementation.runtimeconfig.json
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\bin\Debug\net6.0\DefaultImplementation.dll
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\bin\Debug\net6.0\DefaultImplementation.pdb
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.csproj.AssemblyReference.cache
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.AssemblyInfoInputs.cache
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.AssemblyInfo.cs
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.dll
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\refint\DefaultImplementation.dll
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.pdb
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\DefaultImplementation.genruntimeconfig.cache
+D:\Trainings\YcpJan23\Day5\DefaultImplementation\obj\Debug\net6.0\ref\DefaultImplementation.dll
