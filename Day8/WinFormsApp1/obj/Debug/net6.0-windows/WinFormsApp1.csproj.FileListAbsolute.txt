@@ -1,0 +1,17 @@
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Trainings\YcpJan23\Day8\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
